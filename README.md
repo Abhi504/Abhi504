@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/abhisheksankar7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhisheksankar7" height="30" width="40" /></a>
-<a href="https://instagram.com/0g_4bh15h3k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="0g_4bh15h3k" height="30" width="40" /></a>
+<a href="https://instagram.com/iabhishek_og" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="0g_4bh15h3k" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/abhisheksankaramani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="abhisheksankaramani" height="30" width="40" /></a>
 <a href="https://discord.gg/4BH15H3K#1845" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="4BH15H3K#1845" height="30" width="40" /></a>
 </p>
