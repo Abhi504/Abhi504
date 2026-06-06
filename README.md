@@ -1,4 +1,4 @@
-```html
+
 <h1 align="center">Hi 👋, I'm Abhishek Sankaramani</h1>
 
 <h3 align="center">
@@ -123,4 +123,3 @@ Passionate about Artificial Intelligence, Data Science, Computer Vision, Robotic
 <h3 align="center">
 ⭐ Always Learning • Always Building • Always Improving
 </h3>
-```
