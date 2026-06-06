@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek Sankaramani</h1>
 
 <h3 align="center">
-AI Enthusiast | Data Science Learner | Full-Stack Developer | Robotics Innovator
+AI Enthusiast | Data Science Learner | Robotics Innovator
 </h3>
 
 <p align="center">
