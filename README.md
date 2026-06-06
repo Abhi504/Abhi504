@@ -89,27 +89,6 @@ Passionate about Artificial Intelligence, Data Science, Computer Vision, Robotic
 
 <hr>
 
-<h2>📈 GitHub Statistics</h2>
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhi504&show_icons=true&theme=tokyonight" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi504&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhi504&theme=tokyonight" />
-</p>
-
-<hr>
-
-<h2>🏆 GitHub Trophies</h2>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=abhi504&theme=tokyonight&row=1&column=7" />
-</p>
-
-<hr>
-
 <h2>💭 Favorite Quote</h2>
 
 <blockquote>
