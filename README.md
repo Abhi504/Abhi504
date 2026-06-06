@@ -60,7 +60,7 @@ Passionate about Artificial Intelligence, Data Science, Computer Vision, Robotic
 <h2>💻 Programming Languages</h2>
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,javascript,html,css" />
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css" />
 </p>
 
 <hr>
@@ -68,7 +68,7 @@ Passionate about Artificial Intelligence, Data Science, Computer Vision, Robotic
 <h2>⚙️ Frameworks & Development Tools</h2>
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,nextjs,flutter,dotnet,docker,git,linux,bash" />
+<img src="https://skillicons.dev/icons?i=docker,git,linux,bash" />
 </p>
 
 <hr>
